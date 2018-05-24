@@ -1,0 +1,4 @@
+Este arquivo representa outro
+arquivo que pode
+ser
+enviado via ftp

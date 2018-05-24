@@ -1,0 +1,9 @@
+/servidor-ftp/.settings
+/servidor-ftp/bin
+/servidor-ftp/target
+/Cliente/.settings
+/Cliente/bin
+/Mensageria/.settings
+/Mensageria/bin
+*.classpath
+*.project
