@@ -1,4 +1,4 @@
-# servidor-ftp-simples
+## Servidor ftp simples
 Esse código representa um servidor ftp simples que transfere arquivos de texto copiando-os linha a linha e 
 armazenando em outro arquivo de mesmo nome no lado do cliente. É utilizada a API de sockets do java,
 mais precisamente a classe ServerSocket para ser o servidor e Socket para cliente. 
